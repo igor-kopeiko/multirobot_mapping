@@ -25,4 +25,6 @@ rosrun multi_agent_alg mult_task_plan_node
 https://github.com/hikashi/multi-robot-rrt-exploration-noetic
 
 Две основные папки, которые нужны для работы алгоритма:
-ros_multi_tb3 и 
+ros_multi_tb3 и multi_agent_alg. 
+
+Остальные пакеты были выгружены, поскольку я уже не помню, какие именно пакеты задействовал алгоритм. К сожалению, документация к этому проекту должным образом не велась, но в будущем я учту эту ошибку.
