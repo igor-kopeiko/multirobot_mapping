@@ -23,3 +23,6 @@ rosrun multi_agent_alg mult_task_plan_node
 
 Пакет, с использованием которого был создан алгоритм:
 https://github.com/hikashi/multi-robot-rrt-exploration-noetic
+
+Две основные папки, которые нужны для работы алгоритма:
+ros_multi_tb3 и 
